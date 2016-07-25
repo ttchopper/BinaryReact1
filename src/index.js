@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import NewUser from './components/new_user';
 import UserList from './components/user_list';
-// import VideoDetail from './components/video_detail';
-// const API_KEY = 'AIzaSyAgp4NCr9fzlB19BE9Vr8mY5JGycKtFhlY';
-
 
 
 
